@@ -1,3 +1,2 @@
-#!/usr/bin/env python3
-
-poor_syntax = 2 * #
+# Fix the syntax error
+poor_syntax = 2 * 5  # For example, multiplying by 5
